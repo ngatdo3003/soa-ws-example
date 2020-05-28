@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88ae2f2b-b4b1-4390-9cad-0c9b8593a213" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/src/main/java/com/ngatdo/restws/RestwsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/src/main/java/com/ngatdo/restws/controller/CalculatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/src/main/java/com/ngatdo/restws/dto/SumRequestDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/src/test/java/com/ngatdo/restws/RestwsApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngatdo/soapws/SoapWsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngatdo/soapws/config/WebServiceConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngatdo/soapws/controller/CaculatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngatdo/soapws/endpoint/CalculatorEndpoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngatdo/soapws/model/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngatdo/soapws/utils/GetSumRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngatdo/soapws/utils/GetSumResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngatdo/soapws/utils/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xsd/calculator.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ngatdo/soapws/CalculatorWebServiceTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ngatdo/soapws/SoapWsApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/ngatdo/soapws/SoapWsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/ngatdo/soapws/config/WebServiceConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/ngatdo/soapws/controller/CaculatorController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/ngatdo/soapws/endpoint/CalculatorEndpoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/ngatdo/soapws/model/Operator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/ngatdo/soapws/utils/GetSumRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/ngatdo/soapws/utils/GetSumResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/ngatdo/soapws/utils/ObjectFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/templates/index.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/xsd/calculator.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/com/ngatdo/soapws/CalculatorWebServiceTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/com/ngatdo/soapws/SoapWsApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cVyasRMT8KVTvsKJqStKgHJE2C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SoapWsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="soap-ws" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ngatdo.soapws.SoapWsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88ae2f2b-b4b1-4390-9cad-0c9b8593a213" name="Default Changelist" comment="" />
+      <created>1590628121461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590628121461</updated>
+      <workItem from="1590628123371" duration="1580000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="227" key="GridCell.Tab.0.bottom" timestamp="1590631957753">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="227" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1590631957753" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1590628341616" />
+    <state width="1238" height="227" key="GridCell.Tab.0.center" timestamp="1590631957752">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="227" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1590631957752" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1590628341613" />
+    <state width="1238" height="227" key="GridCell.Tab.0.left" timestamp="1590631957751">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="227" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1590631957751" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1590628341608" />
+    <state width="1238" height="227" key="GridCell.Tab.0.right" timestamp="1590631957752">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="227" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1590631957752" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1590628341615" />
+    <state width="1238" height="227" key="GridCell.Tab.1.bottom" timestamp="1590631957756">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="227" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1590631957756" />
+    <state width="1238" height="212" key="GridCell.Tab.1.bottom/0.23.1280.709@0.23.1280.709" timestamp="1590628341624" />
+    <state width="1238" height="227" key="GridCell.Tab.1.center" timestamp="1590631957754">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="227" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1590631957754" />
+    <state width="1238" height="212" key="GridCell.Tab.1.center/0.23.1280.709@0.23.1280.709" timestamp="1590628341618" />
+    <state width="1238" height="227" key="GridCell.Tab.1.left" timestamp="1590631957754">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="227" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1590631957754" />
+    <state width="1238" height="212" key="GridCell.Tab.1.left/0.23.1280.709@0.23.1280.709" timestamp="1590628341617" />
+    <state width="1238" height="227" key="GridCell.Tab.1.right" timestamp="1590631957755">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="227" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1590631957755" />
+    <state width="1238" height="212" key="GridCell.Tab.1.right/0.23.1280.709@0.23.1280.709" timestamp="1590628341619" />
+  </component>
+</project>
